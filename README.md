@@ -4,9 +4,16 @@ This open science wiki site is a collaborative space that gathers engineering me
 
 ## Motivations
 
+_*Why did we start this open science environment for benchmarking engineering methods and tools?*_
+
+
 for building confidence in the usefulness of the new knowledge with respect to a purpose
 
  regrouping empirical data bases, qualitative and quantitative standardized measures for comparing studies, and agreed upon theoretical constructs such as causal graphs 
+
+# Goals
+
+_*What does this project provide?*_
 
 ## Folder organisation
 
@@ -14,17 +21,49 @@ for building confidence in the usefulness of the new knowledge with respect to a
 
 ## Joining the community 
 
+_*Want to join our community? Follow the guidelines!*_
+
+If you have any questions or run into problems during your build, please search for answers and/or reach out on Github Discussions. Please also take a look at the list of open issues. If you think there is an error or a part is missing, please create a new issue.
+
+
+## Contribution Process
+_*How to contribute*_
+
+To contribute to this open source project, you can:
+
+- Post on issues page and briefly outline the changes you plan to make
+- If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
+- ...
+
 ## Getting help
 
 ## Project team
 
-* Romain PINQUIE - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr
-* 
+_*Want to get in touche with the core team? Drop an email to all of us!*_
+
+* **Romain Pinquié** - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr
+* **Julien Le Duigou** - Universite de Technologie de Compiegne, Laboratoire Roberval - julien.le-duigou@utc.fr
+* **Lionel Roucoules** - Arts et Métiers ParisTech, LISPEN - lionel.roucoules@ensam.eu
+* **Lou Grimal** - Arts et Métiers ParisTech, LISPEN - lionel.roucoules@ensam.eu
 
 ## Other participants
 
+_*Want to be active with us? Do not hesitate to add your contact details in the list!*_
+
+* **Nabil Anwer** - ENS Paris Saclay, LURPA - nabil.anwer@lurpa.ens-cachan.fr
+* **Matthieu Bricogne** - Universite de Technologie de Compiegne, Roberval - XXX
+* **Nadège Troussier** - Universite de Technologie de Troyes - nadege.troussier@utt.fr
+* **Alexis Lalevée** - XXX
+* **Florent Laroche** - Ecole Centrale de Nantes, LS2N - florent.laroche@ls2n.fr
+* **Olivia Penas** - Supméca, QUARTZ - olivia.penas@supmeca.fr
+* **Régis Plateaux** - Supméca, QUARTZ - regis.plateaux@supmeca.fr
+* **Alix Thecle** - Arts et Métiers ParisTech, I2M - thecle.Alix@ensam.eu
+* **Esma Yahia** - Arts et Métiers ParisTech, LISPEN - esma.yahia@ensam.eu
 
 ## Related projects
+
+_*What are the existing sources that have inspired this project?*_
+
 * Model-Based Systems Engineering:
   - [OMG MBSE Methodology and Metrics](https://www.omgwiki.org/MBSE/doku.php?id=mbse:methodology)
 * Data science challenges:
@@ -46,19 +85,17 @@ for building confidence in the usefulness of the new knowledge with respect to a
 - Frey, D. D. and Dym, C. L. (2006) [Validation of design methods: lessons from medicine](https://link.springer.com/article/10.1007/s00163-006-0016-4)
 - Seepersad, C. C. and al. (2006) [The validation square: How does one verify and validate a design method?](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)
 
-## Benchmarks
+## Disclaimer
 
-What objects do you want to benchmark?
+Disclaimer Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise, does not constitute or imply its endorsement by our community or S.mart.
 
-### 1. Early model-based systems validation and verification
+By downloading, cloning, or otherwise using the contents of this repository, you agree to the terms specified in the attached DISCLAIMER.txt file.
 
-- **Objects to validate**
+## License
+CC-BY-SA 4.0
 
-- **Data sets**
-
-- **Objects to validate**
-
-- **Meta-analyses**
+## Sponsors and Partners
+- S.mart
 
 
 
